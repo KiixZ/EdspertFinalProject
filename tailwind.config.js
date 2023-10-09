@@ -10,6 +10,7 @@ export default {
         'tugas-bg': '#152A46',
         'tugas-btn': '#FF6161',
         'tugas-co': '#2A61A8',
+        'tugas-yellow': '#FFCD29',
       },
       fontFamily: {
         mulish: ['Mulish', 'sans'],
